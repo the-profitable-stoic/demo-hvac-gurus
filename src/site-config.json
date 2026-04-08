@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "HVAC Gurus",
+    "phone": "+14084990494",
+    "category": "HVAC contractor",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "HVAC Pros Serving San Jose",
+      "heroSubline": "Reliable heating and cooling solutions for Bay Area homes. Expert HVAC service and installation, guaranteed.",
+      "aboutTitle": "Your Trusted San Jose HVAC Experts",
+      "aboutText": [
+        "HVAC Gurus started with a simple mission: to provide honest, reliable HVAC services to our neighbors in San Jose. We've grown from a small team to a trusted name, thanks to our commitment to quality and customer satisfaction.",
+        "We believe in doing the job right the first time. Our approach is simple: assess the needs, provide clear options, and execute with precision. We use quality parts and employ the best technicians to ensure lasting results.",
+        "We're proud to be a part of the San Jose community. From sponsoring local events to supporting local charities, we believe in giving back to the place we call home."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait, and neither do we. Get immediate assistance when you need it most."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team of certified technicians has the expertise to handle any HVAC challenge."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work. If you're not happy, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Get a Free Quote Today",
+      "ctaSubline": "Schedule your no-obligation consultation and experience the HVAC Gurus difference."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortDescription": "Fast, reliable AC repair services to keep you cool in the San Jose heat.",
+        "description": "Is your AC unit struggling to keep up with the San Jose heat? Don't sweat it! HVAC Gurus offers comprehensive AC repair services to get your system back up and running quickly and efficiently. We understand the discomfort of a malfunctioning AC, especially during the peak summer months in the Bay Area.\n\nOur experienced technicians are equipped to diagnose and repair all makes and models of air conditioners. From refrigerant leaks and compressor issues to faulty wiring and thermostat problems, we've seen it all. We use advanced diagnostic tools to pinpoint the problem accurately and provide lasting solutions.\n\nWe prioritize prompt service and transparent communication. We'll explain the issue in detail, provide a clear estimate of the repair costs, and answer any questions you may have before proceeding with the work. Our goal is to restore your AC's performance and ensure your comfort with minimal disruption to your day.\n\nDon't let a broken AC disrupt your life. Contact HVAC Gurus for reliable AC repair services you can trust.",
+        "process": [
+          "Step 1: Schedule a convenient appointment.",
+          "Step 2: Our technician will diagnose the AC issue.",
+          "Step 3: We'll provide a detailed estimate and explanation.",
+          "Step 4: We'll complete the repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Faster cooling and improved comfort",
+          "Reduced energy bills",
+          "Extended AC lifespan",
+          "Peace of mind knowing your AC is in good hands"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you repair my AC?",
+            "answer": "We offer same-day and next-day appointments whenever possible. Our technicians will arrive promptly and work efficiently to resolve your AC issue."
+          },
+          {
+            "question": "Do you repair all AC brands?",
+            "answer": "Yes, we have experience repairing all major AC brands and models. Our technicians are continuously trained on the latest technologies and repair techniques."
+          },
+          {
+            "question": "What are the signs that my AC needs repair?",
+            "answer": "Common signs include weak airflow, strange noises, unusual odors, frequent cycling, and increased energy bills."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortDescription": "Expert AC installation for optimal cooling performance in your San Jose home.",
+        "description": "Upgrade your home's cooling system with HVAC Gurus' professional AC installation services. Whether you're replacing an old, inefficient unit or installing AC in a new construction, we have the expertise to ensure a seamless and efficient installation process.\n\nWe offer a wide selection of high-quality AC units from leading brands to suit your specific needs and budget. Our team will assess your home's size, insulation, and cooling requirements to recommend the right AC system for optimal performance and energy efficiency. Considering San Jose's mild climate but also the occasional heat spikes, an efficient system is key.\n\nOur certified technicians will handle every aspect of the installation process, from removing the old unit to properly connecting the new one. We pay close attention to detail to ensure proper airflow, refrigerant levels, and electrical connections. We also provide thorough testing and calibration to guarantee optimal performance.\n\nInvest in a comfortable and energy-efficient home. Contact HVAC Gurus for expert AC installation services and experience the difference.",
+        "process": [
+          "Step 1: Schedule a free consultation.",
+          "Step 2: We'll assess your cooling needs and recommend the right AC system.",
+          "Step 3: We'll provide a detailed installation estimate.",
+          "Step 4: Our technicians will install your new AC unit with precision and care."
+        ],
+        "benefits": [
+          "Improved cooling performance",
+          "Reduced energy consumption",
+          "Increased home value",
+          "Enhanced comfort and air quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does AC installation take?",
+            "answer": "The installation time depends on the complexity of the project, but most installations can be completed within a day. We'll provide a more accurate estimate during the consultation."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable. Contact us to learn more about our financing plans."
+          },
+          {
+            "question": "What type of AC unit is best for my home?",
+            "answer": "The best AC unit depends on your home's size, insulation, and cooling requirements. We'll help you choose the right unit during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-repair",
+        "name": "Furnace Repair",
+        "shortDescription": "Reliable furnace repair services to keep your home warm during San Jose's cooler months.",
+        "description": "Don't let a malfunctioning furnace leave you shivering during the cooler months in San Jose. HVAC Gurus offers prompt and reliable furnace repair services to restore your home's heating system to optimal performance.\n\nOur experienced technicians are trained to diagnose and repair all types of furnaces, including gas, electric, and propane models. From ignition problems and blower motor failures to heat exchanger issues and thermostat malfunctions, we have the expertise to handle any furnace repair.\n\nWe understand the importance of a functioning furnace, especially during the occasional cold snaps in the Bay Area. That's why we offer 24/7 emergency furnace repair services to ensure your comfort and safety. We prioritize quick response times and efficient repairs to minimize disruption to your day.\n\nWe are committed to providing transparent and honest service. We'll explain the issue in detail, provide a clear estimate of the repair costs, and answer any questions you may have before proceeding with the work. Our goal is to restore your furnace's performance and ensure your comfort with minimal hassle.\n\nContact HVAC Gurus for dependable furnace repair services you can count on.",
+        "process": [
+          "Step 1: Contact us for immediate assistance.",
+          "Step 2: Our technician will diagnose the furnace issue.",
+          "Step 3: We'll provide a cost estimate for the repair.",
+          "Step 4: We'll complete the repair quickly and efficiently."
+        ],
+        "benefits": [
+          "Restored heating performance",
+          "Improved energy efficiency",
+          "Enhanced safety",
+          "Peace of mind during the cooler months"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my furnace serviced?",
+            "answer": "We recommend scheduling annual furnace maintenance to ensure optimal performance and prevent potential problems."
+          },
+          {
+            "question": "What are the signs that my furnace needs repair?",
+            "answer": "Common signs include strange noises, unusual odors, weak airflow, and inconsistent heating."
+          },
+          {
+            "question": "Do you offer emergency furnace repair services?",
+            "answer": "Yes, we offer 24/7 emergency furnace repair services to address urgent heating issues."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-installation",
+        "name": "Furnace Installation",
+        "shortDescription": "Expert furnace installation for reliable and efficient heating in your San Jose home.",
+        "description": "Ensure your home stays warm and comfortable throughout the year with HVAC Gurus' professional furnace installation services. Whether you're replacing an old, inefficient furnace or installing a heating system in a new construction, we have the expertise to ensure a seamless and efficient installation process.\n\nWe offer a wide selection of high-quality furnaces from leading brands to suit your specific needs and budget. Our team will assess your home's size, insulation, and heating requirements to recommend the right furnace for optimal performance and energy efficiency. Given San Jose's generally mild winters, choosing a properly sized and efficient furnace will save you money.\n\nOur certified technicians will handle every aspect of the installation process, from removing the old unit to properly connecting the new one. We pay close attention to detail to ensure proper gas connections, venting, and electrical connections. We also provide thorough testing and calibration to guarantee optimal performance.\n\nInvest in a reliable and energy-efficient heating system. Contact HVAC Gurus for expert furnace installation services and experience the difference.",
+        "process": [
+          "Step 1: Schedule a free consultation.",
+          "Step 2: We'll assess your heating needs and recommend the right furnace.",
+          "Step 3: We'll provide a detailed installation estimate.",
+          "Step 4: Our technicians will install your new furnace with precision."
+        ],
+        "benefits": [
+          "Improved heating performance",
+          "Reduced energy costs",
+          "Increased home value",
+          "Enhanced comfort and air quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does furnace installation take?",
+            "answer": "The installation time depends on the complexity of the project, but most installations can be completed within a day. We'll provide a more accurate estimate during the consultation."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to make furnace installation more affordable. Contact us to learn more about our financing plans."
+          },
+          {
+            "question": "What type of furnace is best for my home?",
+            "answer": "The best furnace depends on your home's size, insulation, and heating requirements. We'll help you choose the right unit during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services in San Jose.",
+        "description": "Improve the air you breathe with HVAC Gurus' professional duct cleaning services. Over time, dust, pollen, allergens, and other contaminants can accumulate in your air ducts, impacting your indoor air quality and potentially causing health issues.\n\nOur experienced technicians use specialized equipment to thoroughly clean your air ducts, removing built-up debris and restoring optimal airflow. We follow industry best practices to ensure a safe and effective cleaning process without causing damage to your ductwork. Considering the dust and allergens common in San Jose, clean ducts are important.\n\nDuct cleaning can improve your home's energy efficiency by allowing your HVAC system to operate more effectively. It can also reduce allergy symptoms, eliminate musty odors, and create a healthier living environment for you and your family.\n\nBreathe easier with clean air ducts. Contact HVAC Gurus for professional duct cleaning services you can trust.",
+        "process": [
+          "Step 1: Schedule a duct cleaning appointment.",
+          "Step 2: Our technician will inspect your ductwork.",
+          "Step 3: We'll use specialized equipment to clean your ducts.",
+          "Step 4: We'll ensure proper airflow and air quality."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergy symptoms",
+          "Eliminated musty odors",
+          "Increased energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every 3-5 years, or more frequently if you have pets, allergies, or respiratory issues."
+          },
+          {
+            "question": "How long does duct cleaning take?",
+            "answer": "The duct cleaning process typically takes 2-4 hours, depending on the size and complexity of your ductwork."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "No, our technicians use specialized equipment to contain the dust and debris during the cleaning process. We'll leave your home clean and tidy."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Preventative HVAC maintenance to keep your system running smoothly in San Jose.",
+        "description": "Protect your investment and ensure optimal performance with HVAC Gurus' comprehensive HVAC maintenance services. Regular maintenance can prevent costly repairs, extend the lifespan of your equipment, and improve energy efficiency. With San Jose's varied weather, keeping your system in top shape is crucial.\n\nOur experienced technicians will thoroughly inspect your HVAC system, clean vital components, lubricate moving parts, and identify potential problems before they escalate. We'll also check refrigerant levels, test electrical connections, and calibrate your thermostat to ensure optimal performance.\n\nHVAC maintenance can save you money on energy bills by ensuring your system operates efficiently. It can also improve your indoor air quality by preventing the buildup of dust, pollen, and other allergens. Most importantly, it provides peace of mind knowing your HVAC system is in good working order.\n\nInvest in preventative maintenance and avoid costly breakdowns. Contact HVAC Gurus for reliable HVAC maintenance services you can count on.",
+        "process": [
+          "Step 1: Schedule a maintenance appointment.",
+          "Step 2: Our technician will inspect your HVAC system.",
+          "Step 3: We'll perform necessary cleaning and adjustments.",
+          "Step 4: We'll provide a detailed maintenance report."
+        ],
+        "benefits": [
+          "Prevent costly repairs",
+          "Extend equipment lifespan",
+          "Improve energy efficiency",
+          "Enhance indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule HVAC maintenance?",
+            "answer": "We recommend scheduling HVAC maintenance at least once a year, preferably in the spring for AC and fall for heating."
+          },
+          {
+            "question": "What is included in HVAC maintenance?",
+            "answer": "HVAC maintenance includes a thorough inspection, cleaning, lubrication, and calibration of your system's components."
+          },
+          {
+            "question": "Will HVAC maintenance void my warranty?",
+            "answer": "No, regular HVAC maintenance will not void your warranty. In fact, many manufacturers require regular maintenance to maintain warranty coverage."
+          }
+        ]
+      },
+      {
+        "slug": "air-quality-testing",
+        "name": "Air Quality Testing",
+        "shortDescription": "Ensure healthy indoor air with our professional air quality testing services in San Jose.",
+        "description": "Are you concerned about the air quality in your San Jose home? HVAC Gurus offers professional air quality testing services to identify potential pollutants and ensure a healthy living environment. Given the density of San Jose, air quality can be a concern for many homeowners.\n\nOur certified technicians use advanced equipment to test for a variety of airborne contaminants, including mold spores, dust mites, pollen, volatile organic compounds (VOCs), and carbon monoxide. We'll provide a detailed report of our findings and recommend solutions to improve your indoor air quality.\n\nPoor air quality can trigger allergy symptoms, respiratory problems, and other health issues. Air quality testing can help you identify and address potential problems before they impact your health and well-being.\n\nBreathe easier with clean, healthy air. Contact HVAC Gurus for professional air quality testing services you can trust.",
+        "process": [
+          "Step 1: Schedule an air quality testing appointment.",
+          "Step 2: Our technician will conduct air quality tests.",
+          "Step 3: We'll provide a detailed report of our findings.",
+          "Step 4: We'll recommend solutions to improve your air quality."
+        ],
+        "benefits": [
+          "Identify potential pollutants",
+          "Improve indoor air quality",
+          "Reduce allergy symptoms",
+          "Create a healthier living environment"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor air quality?",
+            "answer": "Common signs include allergy symptoms, respiratory problems, headaches, fatigue, and musty odors."
+          },
+          {
+            "question": "How long does air quality testing take?",
+            "answer": "Air quality testing typically takes 1-2 hours, depending on the size of your home."
+          },
+          {
+            "question": "What can I do to improve my air quality?",
+            "answer": "Solutions include air purifiers, duct cleaning, proper ventilation, and addressing moisture problems."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Jose",
+        "slug": "san-jose-ca",
+        "state": "CA",
+        "content": "HVAC Gurus is proud to offer comprehensive heating, ventilation, and air conditioning services to the residents and businesses of San Jose, California. From the heart of Silicon Valley to the diverse neighborhoods throughout the city, we are committed to ensuring your indoor comfort year-round.\n\nOur team of certified technicians provides expert installation, repair, and maintenance for all types of HVAC systems. Whether you need a new furnace installed, AC repair, or routine system maintenance, HVAC Gurus is here to keep your home or business comfortable and energy-efficient.",
+        "localContext": "San Jose's climate ranges from mild winters to hot summers, making reliable HVAC systems essential for comfortable living and working. We understand the specific needs of San Jose residents and businesses.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Sunnyvale",
+          "Milpitas"
+        ]
+      },
+      {
+        "city": "Santa Clara",
+        "slug": "santa-clara-ca",
+        "state": "CA",
+        "content": "HVAC Gurus extends its expert HVAC services to the vibrant city of Santa Clara, CA. Home to Levi's Stadium and numerous tech companies, Santa Clara demands reliable and efficient climate control solutions, and we are here to provide them.\n\nWe offer a full range of services, including HVAC installation, repair, and maintenance. Our experienced technicians are equipped to handle any HVAC challenge, ensuring your home or business stays comfortable and energy-efficient throughout the year. We are dedicated to providing prompt and professional service to the Santa Clara community.",
+        "localContext": "Santa Clara experiences warm summers and mild winters, making efficient cooling and heating systems essential for year-round comfort. We understand the unique requirements of homes and businesses in Santa Clara.",
+        "nearbyAreas": [
+          "San Jose",
+          "Sunnyvale",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Sunnyvale",
+        "slug": "sunnyvale-ca",
+        "state": "CA",
+        "content": "HVAC Gurus proudly serves the residents and businesses of Sunnyvale, California, providing top-quality heating, ventilation, and air conditioning services. Located in the heart of Silicon Valley, Sunnyvale relies on efficient and reliable HVAC systems, and we are committed to delivering exceptional service.\n\nOur services include HVAC installation, repair, and maintenance. Whether you need a new air conditioner, furnace repair, or routine maintenance, our skilled technicians are ready to assist you. We are dedicated to ensuring your comfort and satisfaction in Sunnyvale.",
+        "localContext": "Sunnyvale's climate requires reliable HVAC systems to maintain comfortable indoor environments throughout the year. We have experience with the specific needs of Sunnyvale residents and businesses.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Mountain View",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Milpitas",
+        "slug": "milpitas-ca",
+        "state": "CA",
+        "content": "HVAC Gurus is dedicated to providing top-notch HVAC services to the community of Milpitas, CA. From residential homes to commercial properties, we ensure your heating and cooling systems are running efficiently and effectively.\n\nOur expert technicians are equipped to handle all your HVAC needs, including installation, repair, and maintenance. We pride ourselves on delivering prompt, reliable, and affordable services to keep your indoor environment comfortable year-round. We are committed to serving the Milpitas community with excellence.",
+        "localContext": "Milpitas experiences a Mediterranean climate with warm, dry summers and mild, wet winters, making efficient HVAC systems crucial for year-round comfort. We understand the climate challenges specific to Milpitas.",
+        "nearbyAreas": [
+          "San Jose",
+          "Fremont",
+          "Sunnyvale"
+        ]
+      },
+      {
+        "city": "Cupertino",
+        "slug": "cupertino-ca",
+        "state": "CA",
+        "content": "HVAC Gurus provides reliable and professional HVAC services to the residents and businesses of Cupertino, California. Known for its tech industry presence, Cupertino demands efficient and dependable climate control solutions, and we are dedicated to meeting those needs.\n\nWe offer a comprehensive range of services, including HVAC installation, repair, and maintenance. Our experienced technicians are ready to handle any HVAC challenge, ensuring your comfort and satisfaction. We are committed to providing exceptional service to the Cupertino community.",
+        "localContext": "Cupertino's climate requires efficient heating and cooling systems to maintain comfortable indoor environments throughout the year. We understand the specific needs of Cupertino residents and businesses.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Santa Clara",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Mountain View",
+        "slug": "mountain-view-ca",
+        "state": "CA",
+        "content": "HVAC Gurus is committed to delivering top-quality HVAC services to the residents and businesses of Mountain View, California. As a hub for innovation and technology, Mountain View requires reliable and efficient climate control solutions, and we are here to provide them.\n\nOur services include HVAC installation, repair, and maintenance. Whether you need a new furnace, AC repair, or routine maintenance, our skilled technicians are ready to assist you. We are dedicated to ensuring your comfort and satisfaction in Mountain View.",
+        "localContext": "Mountain View's climate necessitates reliable HVAC systems to maintain comfortable indoor environments year-round. We have experience with the specific needs of Mountain View residents and businesses.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Palo Alto",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Palo Alto",
+        "slug": "palo-alto-ca",
+        "state": "CA",
+        "content": "HVAC Gurus offers expert HVAC services to the residents and businesses of Palo Alto, California. Known for its prestigious university and technology sector, Palo Alto demands high-quality and efficient climate control solutions, and we are dedicated to providing them.\n\nOur services include HVAC installation, repair, and maintenance. Whether you need a new air conditioner, furnace repair, or routine maintenance, our skilled technicians are ready to assist you. We are dedicated to ensuring your comfort and satisfaction in Palo Alto.",
+        "localContext": "Palo Alto's climate requires efficient heating and cooling systems to maintain comfortable indoor environments throughout the year. We understand the specific needs of Palo Alto residents and businesses.",
+        "nearbyAreas": [
+          "Mountain View",
+          "Menlo Park",
+          "Los Altos Hills"
+        ]
+      },
+      {
+        "city": "Los Gatos",
+        "slug": "los-gatos-ca",
+        "state": "CA",
+        "content": "HVAC Gurus is pleased to offer comprehensive HVAC services to the residents and businesses of Los Gatos, California. Nestled in the foothills of the Santa Cruz Mountains, Los Gatos values comfort and quality, and we are dedicated to providing top-notch HVAC solutions.\n\nOur team of certified technicians provides expert installation, repair, and maintenance for all types of HVAC systems. Whether you need a new furnace installed, AC repair, or routine system maintenance, HVAC Gurus is here to keep your home or business comfortable and energy-efficient.",
+        "localContext": "Los Gatos experiences warm summers and mild winters, making efficient cooling and heating systems essential for year-round comfort. We understand the unique requirements of homes and businesses in Los Gatos.",
+        "nearbyAreas": [
+          "Campbell",
+          "Saratoga",
+          "Monte Sereno"
+        ]
+      },
+      {
+        "city": "Campbell",
+        "slug": "campbell-ca",
+        "state": "CA",
+        "content": "HVAC Gurus is proud to serve the residents and businesses of Campbell, California, with top-quality HVAC services. Known for its community atmosphere and vibrant downtown, Campbell relies on efficient and reliable HVAC systems, and we are committed to delivering exceptional service.\n\nOur services include HVAC installation, repair, and maintenance. Whether you need a new air conditioner, furnace repair, or routine maintenance, our skilled technicians are ready to assist you. We are dedicated to ensuring your comfort and satisfaction in Campbell.",
+        "localContext": "Campbell's climate requires efficient heating and cooling systems to maintain comfortable indoor environments throughout the year. We understand the specific needs of Campbell residents and businesses.",
+        "nearbyAreas": [
+          "San Jose",
+          "Los Gatos",
+          "Saratoga"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC went out during a heatwave, and HVAC Gurus responded quickly. The technician, David, was professional and diagnosed the problem right away. The repair was fast and affordable. We're so grateful for their prompt service!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Furnace Installation",
+        "text": "HVAC Gurus installed a new furnace in our Willow Glen home. The installation crew was efficient and cleaned up everything afterward. The new furnace works great, and our house is much warmer now. The price was competitive and the service was professional.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I had my ducts cleaned by HVAC Gurus, and I'm amazed at the difference. The air in my house feels cleaner, and my allergy symptoms have improved. The technicians were thorough and explained the process clearly. Highly recommend!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "HVAC Maintenance",
+        "text": "We've been using HVAC Gurus for annual maintenance for years. They're always reliable and professional. Their preventative maintenance has saved us from costly repairs down the road. Great service!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "AC Installation",
+        "text": "HVAC Gurus installed a new AC unit in our Rose Garden home. The sales process was smooth, and the installation was done on time. The new AC works perfectly, and it's much more energy-efficient than our old unit.",
+        "date": "2024-08-22"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Air Quality Testing",
+        "text": "I was concerned about mold in my home, so I hired HVAC Gurus for air quality testing. They identified elevated mold levels and recommended a remediation plan. I appreciated their thoroughness and expertise.",
+        "date": "2025-03-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Jose HVAC Experts | HVAC Gurus",
+        "description": "Reliable HVAC repair, installation & maintenance in San Jose, CA. 24/7 emergency service. Free quotes. Call +14084990494."
+      },
+      "about": {
+        "title": "About HVAC Gurus | San Jose, CA",
+        "description": "Learn about HVAC Gurus, your trusted HVAC contractor in San Jose. Experienced technicians, upfront pricing, and satisfaction guaranteed."
+      },
+      "services": {
+        "title": "HVAC Services | San Jose, CA | HVAC Gurus",
+        "description": "Comprehensive HVAC services in San Jose, CA: AC repair, furnace installation, duct cleaning, and more. Contact HVAC Gurus today!"
+      },
+      "contact": {
+        "title": "Contact HVAC Gurus | San Jose, CA",
+        "description": "Contact HVAC Gurus for all your HVAC needs in San Jose, CA. Call +14084990494 for a free quote or to schedule service."
+      },
+      "reviews": {
+        "title": "HVAC Gurus Reviews | San Jose, CA",
+        "description": "Read reviews from satisfied HVAC Gurus customers in San Jose, CA. See why we're the trusted choice for HVAC services."
+      },
+      "service-areas": {
+        "title": "HVAC Service Areas | San Jose & Bay Area",
+        "description": "HVAC Gurus provides expert HVAC services in San Jose and surrounding Bay Area communities. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "furnace-repair": "/images/service-furnace-repair.webp",
+      "furnace-installation": "/images/service-furnace-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp",
+      "air-quality-testing": "/images/service-air-quality-testing.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-repair": {
+        "src": "/images/service-furnace-repair.webp",
+        "srcset": "/images/service-furnace-repair-400w.webp 400w, /images/service-furnace-repair-800w.webp 800w, /images/service-furnace-repair-1200w.webp 1200w, /images/service-furnace-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-installation": {
+        "src": "/images/service-furnace-installation.webp",
+        "srcset": "/images/service-furnace-installation-400w.webp 400w, /images/service-furnace-installation-800w.webp 800w, /images/service-furnace-installation-1200w.webp 1200w, /images/service-furnace-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-quality-testing": {
+        "src": "/images/service-air-quality-testing.webp",
+        "srcset": "/images/service-air-quality-testing-400w.webp 400w, /images/service-air-quality-testing-800w.webp 800w, /images/service-air-quality-testing-1200w.webp 1200w, /images/service-air-quality-testing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
